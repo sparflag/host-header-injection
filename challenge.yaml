@@ -1,0 +1,7 @@
+slug: host-header-injection
+title: Host Header Injection
+category: web
+difficulty: medium
+points: 275
+codec: xorb64
+repo_url: https://github.com/sparflag/host-header-injection
